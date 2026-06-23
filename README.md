@@ -50,11 +50,6 @@ Git, GitHub, VS Code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaapal21&layout=compact)
 
-<p align="center">
-<a href="https://leetcode.com/u/adityaa_pal/">
-<img src="https://img.shields.io/badge/LeetCode-adityaa_pal-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
 
 ## 🎯 Current Goals
 
