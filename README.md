@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Aditya%20Pal&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aditya%20Pal&fontSize=60&fontAlignY=35&desc=MERN%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55" />
 </p>
+
 <p align="center">
-  <a href="https://leetcode.com/u/adityaa_pal/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DSA+Enthusiast;Future+Software+Engineer;Building+Projects+Daily" />
 </p>
+
 # Hi 👋, I'm Aditya Pal
 
 ### MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer
@@ -15,6 +15,10 @@
 * 💻 Building Full Stack Web Applications using MERN
 * 🚀 Preparing for Software Engineering Roles
 * 📫 Reach me at: aditya.pal.18064@gmail.com
+
+<p align="center">
+<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -40,9 +44,17 @@ Git, GitHub, VS Code
 
 ## 📊 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaapal21&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaapal21&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaapal21&layout=compact)
+
+<p align="center">
+<a href="https://leetcode.com/u/adityaa_pal/">
+<img src="https://img.shields.io/badge/LeetCode-adityaa_pal-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
 
 ## 🎯 Current Goals
 
