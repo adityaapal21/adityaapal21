@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Aditya Pal 👋
 
-<!--
-**adityaapal21/adityaapal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 DSA & Problem Solving Enthusiast
+
+🚀 Aspiring Software Engineer
+
+---
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+
+---
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- System Design Fundamentals
+
+---
+
+## Goals for 2026
+
+- Solve 300+ LeetCode Problems
+- Build Production-Ready MERN Projects
+- Secure an SDE Role
+
+---
+
+## Connect With Me
+
+- LinkedIn-https://www.linkedin.com/in/aditya-pal-a73372418/
+- LeetCode-https://leetcode.com/u/adityaa_pal/
+- Email-aditya.pal.18064@gmail.com
