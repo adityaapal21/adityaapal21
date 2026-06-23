@@ -30,6 +30,12 @@ MongoDB
 
 Git, GitHub, VS Code
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityaapal21&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaapal21&layout=compact)
+
 ## 🎯 Current Goals
 
 * Solve 300+ LeetCode Problems
