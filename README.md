@@ -38,5 +38,5 @@ Git, GitHub, VS Code
 
 ## 🔗 Connect With Me
 
-* LinkedIn-//www.linkedin.com/in/aditya-pal-a73372418/
+* LinkedIn-linkedin.com/in/adityaapal18
 * LeetCode-https://leetcode.com/u/adityaa_pal/
