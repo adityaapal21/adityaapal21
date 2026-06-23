@@ -61,3 +61,7 @@ Git, GitHub, VS Code
 
 - LinkedIn: https://linkedin.com/in/adityaapal18
 - LeetCode: https://leetcode.com/u/adityaa_pal/
+
+  ## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/adityaapal21/adityaapal21/blob/output/github-contribution-grid-snake.svg)
