@@ -1,47 +1,42 @@
-# Hi, I'm Aditya Pal 👋
+# Hi 👋, I'm Aditya Pal
 
-🎓 B.Tech CSE Student
+### MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer
 
-💻 MERN Stack Developer
+* 🎓 B.Tech CSE Student
+* 🌱 Currently learning Data Structures & Algorithms
+* 💻 Building Full Stack Web Applications using MERN
+* 🚀 Preparing for Software Engineering Roles
+* 📫 Reach me at: aditya.pal.18064@gmail.com
 
-🧠 DSA & Problem Solving Enthusiast
+## 🛠️ Tech Stack
 
-🚀 Aspiring Software Engineer
+### Languages
 
----
+JavaScript, C++, HTML, CSS
 
-## Tech Stack
+### Frontend
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Git
-- GitHub
+React.js
 
----
+### Backend
 
-## Currently Learning
+Node.js, Express.js
 
-- Data Structures & Algorithms
-- Full Stack Development
-- System Design Fundamentals
+### Database
 
----
+MongoDB
 
-## Goals for 2026
+### Tools
 
-- Solve 300+ LeetCode Problems
-- Build Production-Ready MERN Projects
-- Secure an SDE Role
+Git, GitHub, VS Code
 
----
+## 🎯 Current Goals
 
-## Connect With Me
+* Solve 300+ LeetCode Problems
+* Build 3 Production-Ready MERN Projects
+* Secure an SDE Role
 
-- LinkedIn-https://www.linkedin.com/in/aditya-pal-a73372418/
-- LeetCode-https://leetcode.com/u/adityaa_pal/
-- Email-aditya.pal.18064@gmail.com
+## 🔗 Connect With Me
+
+* LinkedIn-//www.linkedin.com/in/aditya-pal-a73372418/
+* LeetCode-https://leetcode.com/u/adityaa_pal/
