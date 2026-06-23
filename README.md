@@ -46,9 +46,6 @@ MongoDB
 
 Git, GitHub, VS Code
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityaapal21&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
