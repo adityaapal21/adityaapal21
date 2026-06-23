@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Aditya%20Pal&fontSize=50&fontColor=ffffff" />
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/adityaa_pal/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 # Hi 👋, I'm Aditya Pal
 
 ### MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer
@@ -44,5 +52,5 @@ Git, GitHub, VS Code
 
 ## 🔗 Connect With Me
 
-* LinkedIn-linkedin.com/in/adityaapal18
-* LeetCode-https://leetcode.com/u/adityaa_pal/
+- LinkedIn: https://linkedin.com/in/adityaapal18
+- LeetCode: https://leetcode.com/u/adityaa_pal/
