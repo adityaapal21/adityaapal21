@@ -22,6 +22,10 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp" />
+</p>
+
 ### Languages
 
 JavaScript, C++, HTML, CSS
@@ -41,6 +45,10 @@ MongoDB
 ### Tools
 
 Git, GitHub, VS Code
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityaapal21&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
